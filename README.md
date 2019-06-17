@@ -42,3 +42,4 @@ Note that parameters for the model semivariogram are generated more or less arbi
  - Would be nice to provide some graphical output during non-interactive runs (e.g. semivariogram or a map showing the data)
  - elements are only flagged for use in semivariograms and krige calculations if they are > 0 (this was a quick workaround for some problem that I encountered early in writing this and have since forgotten about)
  - apparently, I can't spell!
+ - numerious R style infractions (e.g. poorly named files, poor spacing, no foldable comments)
