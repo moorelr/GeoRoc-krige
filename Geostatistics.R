@@ -153,7 +153,7 @@ if(!varg_params_exist){
   
   # parameter controlling grid resolution for krige    <--- should put this in settings file with varg params
   # Fast = 10ish; Pretty = 100ish
-  krige_res <- 10
+  krige_res <- 20
   
   varg_params <- rbind(max_dist, r_nug, sill, rrange, nugget, cov_model, element, log_element, krige_res)
   write.csv(varg_params, "varg_params.csv", quote = FALSE)
