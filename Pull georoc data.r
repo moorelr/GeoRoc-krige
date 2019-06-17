@@ -1,3 +1,6 @@
+# moorelr/georoc-krige is licensed under The MIT License
+# Copyright 2019 Lowell R. Moore
+
 # Run this first if using RStudio 
 georoc_url <- ""
 if(TRUE){
@@ -29,7 +32,7 @@ for(i in 1:nrow(Import)){
   }
 }
 
-print("Done! (Thanks Bärbel!)"); Sys.sleep(0.5)
+print("Done! (Thanks BÃ¤rbel!)"); Sys.sleep(0.5)
 
 
   
