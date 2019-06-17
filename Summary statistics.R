@@ -1,3 +1,5 @@
+# moorelr/georoc-krige is licensed under The MIT License
+# Copyright 2019 Lowell R. Moore
 
 print("Importing parsed GeoRoc file")
 Import <- read.csv("Georoc_parsed.csv", stringsAsFactors = FALSE)
