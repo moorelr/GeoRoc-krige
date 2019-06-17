@@ -1,3 +1,6 @@
+# moorelr/georoc-krige is licensed under The MIT License
+# Copyright 2019 Lowell R. Moore
+
 print("Importing data...")
 
 # Import libraries and data
